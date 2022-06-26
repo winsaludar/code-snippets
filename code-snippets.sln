@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreTransactions", "EFCoreTransactions\EFCoreTransactions.csproj", "{E1478B62-8D5C-40D2-913D-6B2D8C5DBC22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreTransactions", "EFCoreTransactions\EFCoreTransactions.csproj", "{E1478B62-8D5C-40D2-913D-6B2D8C5DBC22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlToPdfConverter", "HtmlToPdfConverter\HtmlToPdfConverter.csproj", "{1F4C5373-577F-440F-BAC2-93EC3C74E498}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E1478B62-8D5C-40D2-913D-6B2D8C5DBC22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E1478B62-8D5C-40D2-913D-6B2D8C5DBC22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E1478B62-8D5C-40D2-913D-6B2D8C5DBC22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F4C5373-577F-440F-BAC2-93EC3C74E498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F4C5373-577F-440F-BAC2-93EC3C74E498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F4C5373-577F-440F-BAC2-93EC3C74E498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F4C5373-577F-440F-BAC2-93EC3C74E498}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

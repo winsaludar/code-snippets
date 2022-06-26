@@ -5,3 +5,5 @@
 /.vs
 /EFCoreTransactions/bin/Debug/net6.0
 /EFCoreTransactions/obj
+/HtmlToPdfConverter/bin/Debug/net6.0
+/HtmlToPdfConverter/obj
