@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreTransactions", "EFCor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HtmlToPdfConverter", "HtmlToPdfConverter\HtmlToPdfConverter.csproj", "{1F4C5373-577F-440F-BAC2-93EC3C74E498}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpreadsheetGenerator", "SpreadsheetGenerator\SpreadsheetGenerator.csproj", "{FC75C06A-E4FE-4026-8A7F-647A7AC07703}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1F4C5373-577F-440F-BAC2-93EC3C74E498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F4C5373-577F-440F-BAC2-93EC3C74E498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F4C5373-577F-440F-BAC2-93EC3C74E498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC75C06A-E4FE-4026-8A7F-647A7AC07703}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC75C06A-E4FE-4026-8A7F-647A7AC07703}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC75C06A-E4FE-4026-8A7F-647A7AC07703}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC75C06A-E4FE-4026-8A7F-647A7AC07703}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
